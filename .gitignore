@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+instance/
+.env
+.venv/
+pip-wheel-metadata/
+.pytest_cache/
+.vscode/
